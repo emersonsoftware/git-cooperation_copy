@@ -1,0 +1,2 @@
+add conflict file,This is a new file
+
