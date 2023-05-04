@@ -1,5 +1,8 @@
 main-delete/dev-edit
 --start--
+dev-edit-start
+this is a change
 
+dev-edit-end
 --end--
 expect:Keep this file and changes

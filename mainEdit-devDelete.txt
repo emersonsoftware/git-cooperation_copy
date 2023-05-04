@@ -1,4 +1,0 @@
-main-edit/dev-delete
---start--
---end--
-expect:This file is retained on the dev branch
