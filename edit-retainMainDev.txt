@@ -1,5 +1,5 @@
 --start--
-main
+main-keep
 --end--
 expect:
 main-keep
