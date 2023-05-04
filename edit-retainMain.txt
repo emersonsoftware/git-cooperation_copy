@@ -1,4 +1,4 @@
 --start--
-dev-remove
+main-keep
 --end--
 expect:main-keep
