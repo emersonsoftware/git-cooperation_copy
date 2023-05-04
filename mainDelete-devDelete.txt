@@ -1,0 +1,3 @@
+both-delete
+expect:This file will be deleted
+
