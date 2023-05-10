@@ -1,0 +1,8 @@
+main-edit/dev-delete
+--start--
+main-edit
+this is a change
+commit 1
+main file
+--end--
+expect:This file is retained on the dev branch
